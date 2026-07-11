@@ -1,0 +1,24 @@
+## .NET / WPF
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.cache
+
+## Logs
+logs/
+*.log
+
+## NuGet
+packages/
+*.nupkg
+project.lock.json
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Rider / VS Code
+.idea/
+.vscode/
